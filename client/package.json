@@ -2,6 +2,7 @@
   "name": "google-books",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:3003/",
   "homepage": "https://88dennis.github.io/google-books/",
   "dependencies": {
     "gh-pages": "^2.0.1",
